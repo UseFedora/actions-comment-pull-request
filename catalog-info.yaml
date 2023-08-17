@@ -6,13 +6,13 @@ metadata:
   description: ''
   tags: []
   annotations:
-    github.com/project-slug: Hotmart-Org/actions-comment-pull-request
+    github.com/project-slug: UseFedora/actions-comment-pull-request
     backstage.io/techdocs-ref: dir:.
   links: []
 spec:
   type: service
   lifecycle: production
-  owner: Platform enablement - DevOps Experience & EE
+  owner: Platform enablement
   heimdall:
     reportable: false
     pci: false
